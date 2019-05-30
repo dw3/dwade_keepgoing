@@ -1,0 +1,26 @@
+{
+  "name": "dwade_keepgoing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dva": "latest",
+    "prop-types": "latest",
+    "umi": "^2.6.17",
+    "umi-plugin-react": "^1.7.6",
+    "umi-request": "^1.0.7"
+  },
+  "dependencies": {
+    "antd": "^3.19.1",
+    "react": "latest",
+    "react-document-title": "^2.0.3"
+  }
+}
